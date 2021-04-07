@@ -1,28 +1,28 @@
-#1. Download ISO
-##1.1 Init
+# 1. Download ISO
+## 1.1 Init
 First you need to download Windows19 Server ISO(CD/DVD image file)
-##1.2 Download link.
+## 1.2 Download link.
 Use the link below to download the win19 ISO file 
 https://mega.nz/file/blgGXILA#nK6E9P6c4nD06Q1MSWv6mhka9g1x4p3vpaHauL-qxvM
-##1.3 Click download.
+## 1.3 Click download.
 Push the green button that says download, it will now download your win19 server ISO file, to the default download folder.
 
-#2.Create VM(virtual machine) virtual box
-##2.1 Open the program, Oracle VM VirtualBox.exe
+# 2.Create VM(virtual machine) virtual box
+## 2.1 Open the program, Oracle VM VirtualBox.exe
 Click the shortcut on the desktop
-##2.2 Create VM
+## 2.2 Create VM
 Now you need to press the blue icon that says "New"
-###Ref image
+### Ref image
 2.2.png
-##2.3 Name the operating system
+## 2.3 Name the operating system
 Fill in the inputs as shown in ref image
 Click next
-###Ref image
+### Ref image
 2.3.png
-##2.4 Memory size
+## 2.4 Memory size
 Fill in the inputs as shown in ref image
 Click next
-###Ref image
+### Ref image
 2.4.png
 ##2.5 Hard disk
 Fill in the inputs as shown in ref image
